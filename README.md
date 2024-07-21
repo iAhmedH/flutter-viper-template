@@ -19,11 +19,11 @@ Open Visual Studio Code and install the following extensions:
 ### 2. Add the Custom Template to Your Project
 
 1. Download or clone the custom template files into your project directory.
-2. Ensure they are placed in a directory named `customTemplate`.
+2. Ensure they are placed in a directory named `customTemplates`.
 
 ### 3. Rename the Package Name in the Imports
 
-1. Open each file in the `customTemplate` directory.
+1. Open each file in the `customTemplates` directory.
 2. Update the package name in the imports to match your project's package name.
 
 ### 4. Add Your Working Folder
